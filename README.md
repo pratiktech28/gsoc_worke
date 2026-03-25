@@ -69,7 +69,7 @@
 
 ---
 
-div>
+<div>
   <p><strong>2. CI/CD Workflow (GitHub Actions):</strong></p>
   <p>The pipeline operates on a <strong>Fail-Safe</strong> mechanism to prevent regression in kernel optimization.</p>
 </div>
