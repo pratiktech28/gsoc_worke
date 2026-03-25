@@ -4,6 +4,10 @@
 
 <img width="307" height="164" alt="download" src="https://github.com/user-attachments/assets/b12e084e-02f3-45c3-b922-709006ea4ce0" />
 
+
+<img width="318" height="159" alt="download" src="https://github.com/user-attachments/assets/d655d30f-9693-42a8-a1f4-9ea020a86275" />
+
+
 ![download](https://github.com/user-attachments/assets/3ac69d7a-cc0a-49c6-823e-dd7f6718f8ab)
 
 <div align="justify">
@@ -17,6 +21,10 @@
 </div>
 
 <hr />
+
+
+---
+
 
 <div>
   <h3>🚀 Automated NRMSE Physics Logic</h3>
@@ -43,6 +51,74 @@
 
 <hr />
 
+
+---
+
+<h3>🔱 Implementation Details</h3>
+
+<div style="background-color: #f6f8fa; padding: 15px; border-radius: 6px;">
+  <p><strong>1. Physics Kernel Logic:</strong></p>
+  <p>The validation script ensures model convergence using the following mathematical approach:</p>
+  <p align="center">
+    <em>RMSE = √mean((ref - sim)²)</em> <br>
+    
+    <strong>NRMSE = RMSE / (max(ref) - min(ref))</strong>
+    
+  </p>
+</div>
+
+---
+
+div>
+  <p><strong>2. CI/CD Workflow (GitHub Actions):</strong></p>
+  <p>The pipeline operates on a <strong>Fail-Safe</strong> mechanism to prevent regression in kernel optimization.</p>
+</div>
+
+<hr />
+
+
+---
+
+
+<h3>📊 Project Roadmap & Execution</h3>
+
+<table width="100%">
+  <thead>
+    <tr align="left">
+      <th><strong>Milestone</strong></th>
+      <th><strong>Task Description</strong></th>
+      <th><strong>Status</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>01</strong></td>
+      <td>Basic GitHub Actions Setup</td>
+      <td>✅ <strong>COMPLETED</strong></td>
+    </tr>
+    <tr>
+      <td><strong>02</strong></td>
+      <td>NRMSE Physics Logic Integration</td>
+      <td>✅ <strong>COMPLETED</strong></td>
+    </tr>
+    <tr>
+      <td><strong>03</strong></td>
+      <td>Automated Artifact Generation</td>
+      <td>🔄 <em>IN_PROGRESS</em></td>
+    </tr>
+    <tr>
+      <td><strong>04</strong></td>
+      <td>Parallel Pad Simulation Scaling</td>
+      <td>📅 <em>PLANNED</em></td>
+    </tr>
+  </tbody>
+</table>
+
+<br />
+
+---
+
+
 <div>
   <h3>🔱 Infrastructure & Scalability Dashboard</h3>
   <p>
@@ -66,7 +142,16 @@
 
 <br />
 
+
+---
+
 <div align="center">
   <p><strong><em>"Ensuring Physics Precision at Scale."</em></strong></p>
+</div>
+
+---
+
+<div align="center">
+  <p><em>Built with Passion by Pratik Sharma | GSoC 2026 Contributor</em></p>
 </div>
   
