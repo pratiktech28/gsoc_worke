@@ -1,13 +1,5 @@
 [![Physics Validation CI](https://github.com/pratiktech28/gsoc_worke/actions/workflows/main.yml/badge.svg)](https://github.com/pratiktech28/gsoc_worke/actions/workflows/main.yml)
 
-<img width="600" height="73" alt="download" src="https://github.com/user-attachments/assets/28b100c6-5029-4377-a1c9-058108523009" />
-
-<img width="307" height="164" alt="download" src="https://github.com/user-attachments/assets/b12e084e-02f3-45c3-b922-709006ea4ce0" />
-
-
-<img width="318" height="159" alt="download" src="https://github.com/user-attachments/assets/d655d30f-9693-42a8-a1f4-9ea020a86275" />
-
-
 ![download](https://github.com/user-attachments/assets/3ac69d7a-cc0a-49c6-823e-dd7f6718f8ab)
 
 
